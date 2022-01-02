@@ -37,8 +37,7 @@ const Conversations = (props) => {
   const [newConversation, setNewConversation] = useState(null);
   const getConversations = useGetConversations();
 
-  // Returns the recipient name that does not
-  // belong to the current user.
+
   const handleRecipient = (recipients) => {
     for (let i = 0; i < recipients.length; i++) {
       if (
