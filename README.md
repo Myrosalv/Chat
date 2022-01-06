@@ -13,3 +13,7 @@ Go to client and in console write npm run test to test a react components
 In root directory write npm run dev to start client and server
 and then in browser go to localhost:3000
 
+
+
+https://user-images.githubusercontent.com/73310616/148373139-96ce375c-64be-4153-8fd1-8602fa127b10.mp4
+
